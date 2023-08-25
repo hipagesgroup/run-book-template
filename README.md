@@ -1,3 +1,5 @@
+[![Link to run-book-template in hipages Developer Portal, Component: run-book-template](https://backyard.k8s.hipages.com.au/api/badges/entity/default/Component/run-book-template/badge/pingback "Link to run-book-template in hipages Developer Portal")](https://backyard.k8s.hipages.com.au/catalog/default/Component/run-book-template)
+[![Entity owner badge, owner: architecture-council](https://backyard.k8s.hipages.com.au/api/badges/entity/default/Component/run-book-template/badge/owner "Entity owner badge")](https://backyard.k8s.hipages.com.au/catalog/default/Component/run-book-template)
 # Run Book Template
 
 A Run Book / Operations Manual template for modern software systems.
