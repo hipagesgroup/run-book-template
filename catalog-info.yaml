@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: run-book-template-apps
-  description: Applications managed within the run-book-template monorepo.
+  name: run-book-template
+  description: Catalog entities for run-book-template.
 spec:
   targets:
     - ./catalog/*.yaml

@@ -8,6 +8,8 @@ metadata:
   annotations:
     github.com/project-slug: hipagesgroup/run-book-template
     github.com/team-slug: hipagesgroup/architecture-council
+  tags:
+    - repo
 spec:
   type: documentation
   lifecycle: deprecated
