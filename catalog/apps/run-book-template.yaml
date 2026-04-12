@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: run-book-template
+  title: "Run Book Template"
+  description: >-
+    Run Book / Operations Manual template for modern software systems
+  annotations:
+    github.com/project-slug: hipagesgroup/run-book-template
+    github.com/team-slug: hipagesgroup/architecture-council
+spec:
+  type: documentation
+  lifecycle: deprecated
+  owner: architecture-council
+  system: developer-portal
