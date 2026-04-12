@@ -5,5 +5,4 @@ metadata:
   description: Catalog entities for run-book-template.
 spec:
   targets:
-    - ./catalog/*.yaml
     - ./catalog/**/*.yaml
