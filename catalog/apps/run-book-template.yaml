@@ -10,6 +10,7 @@ metadata:
     github.com/team-slug: hipagesgroup/architecture-council
   tags:
     - repo
+    - pending-archival
 spec:
   type: documentation
   lifecycle: deprecated
