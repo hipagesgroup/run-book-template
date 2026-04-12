@@ -1,13 +1,9 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: Location
 metadata:
   name: run-book-template
-  description: >-
-    Run Book / Operations Manual template for modern software systems
-  annotations:
-    github.com/project-slug: hipagesgroup/run-book-template
+  description: Catalog entities for run-book-template.
 spec:
-  type: documentation
-  lifecycle: deprecated
-  owner: architecture-council
-  system: developer-portal
+  targets:
+    - ./catalog/*.yaml
+    - ./catalog/**/*.yaml
