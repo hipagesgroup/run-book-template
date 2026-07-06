@@ -7,7 +7,7 @@ metadata:
     Run Book / Operations Manual template for modern software systems
   annotations:
     github.com/project-slug: hipagesgroup/run-book-template
-    github.com/team-slug: hipagesgroup/architecture-council
+    github.com/team-slug: architecture-council
   tags:
     - repo
     - pending-archival
