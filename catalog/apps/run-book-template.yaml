@@ -4,10 +4,13 @@ metadata:
   name: run-book-template
   title: "Run Book Template"
   description: >-
-    Run Book / Operations Manual template for modern software systems
+    Run Book / Operations Manual template for modern software systems.
+    Superseded by the operations runbook template in engineering-handbook
+    (docs/SRE/Runbooks/operations-runbook.md).
   annotations:
     github.com/project-slug: hipagesgroup/run-book-template
     github.com/team-slug: hipagesgroup/architecture-council
+    hipages/replaced-by: component:default/engineering-handbook
   tags:
     - repo
     - pending-archival
