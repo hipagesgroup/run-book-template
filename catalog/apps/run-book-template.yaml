@@ -4,7 +4,8 @@ metadata:
   name: run-book-template
   title: "Run Book Template"
   description: >-
-    Run Book / Operations Manual template for modern software systems
+    Run Book / Operations Manual template for modern software systems.
+    Deprecated and flagged for archival (pending-archival); no successor identified.
   annotations:
     github.com/project-slug: hipagesgroup/run-book-template
     github.com/team-slug: hipagesgroup/architecture-council
